@@ -2,6 +2,7 @@ set nocompatible              " be iMproved, required
 filetype off                  " required
 syntax on
 set backspace=indent,eol,start
+set number
 
 " set the runtime path to include Vundle and initialize
 set rtp+=~/.vim/bundle/Vundle.vim
@@ -35,3 +36,4 @@ filetype plugin indent on    " required
 "
 " see :h vundle for more details or wiki for FAQ
 " Put your non-Plugin stuff after this line
+ 
