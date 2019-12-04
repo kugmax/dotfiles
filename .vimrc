@@ -20,6 +20,7 @@ Plugin 'valloric/youcompleteme'
 Plugin 'pangloss/vim-javascript'
 Plugin 'mxw/vim-jsx'
 Plugin 'kien/ctrlp.vim'
+Plugin 'w0rp/ale'
 
 call vundle#end()            " required
 filetype plugin indent on    " required
